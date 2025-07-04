@@ -12,4 +12,3 @@ spesa.forEach(prodotto => {
     ul.innerHTML += `<li>${prodotto}</li>`;
 });
 
-//ul.innerText = ['Pane', 'Latte', 'Uova', 'Pasta', 'Pomodori'];
